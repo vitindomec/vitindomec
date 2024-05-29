@@ -1,8 +1,7 @@
-## Hi there 👋
-
-<!--
-**vitindomec/vitindomec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+vitor hugo kiill silva
+16 anos
+mirandopolis sp 
+fé em Deus 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
